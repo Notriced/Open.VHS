@@ -53,38 +53,8 @@ Easily navigate the GUI and share your Anomic VHS tapes effortlessly!
 For further instructions, a tutorial will be available on the Anomic Forums.
 
 💾 **Contribute & Explore**
-Have a feature idea or found a bug? Feel free to contribute and help improve Open.VHS!
+Have a feature idea or found a bug? Feel free to report it on the post i made updates will come monthly with 2 updates
 )  
 
 ---
 
-## 📖 How to Use Open.VHS
-
-### 1️⃣ **Download & Install**
-- Clone the repository or download the latest release.
-- Ensure you have Python installed on your system.
-- Install dependencies using:
-  ```sh
-  pip install customtkinter
-  ```
-
-### 2️⃣ **Run the Application**
-- Navigate to the project directory.
-- Run the GUI using:
-  ```sh
-  python open_vhs.py
-  ```
-
-### 3️⃣ **Using the Interface**
-- **Enter VHS Code & Description**: Input a new VHS code with a description.
-- **Add VHS Code**: Click the "Add VHS Codes" button to save it.
-- **View All Codes**: Click "View All VHS Codes" to see all stored VHS codes.
-- **Navigate & Search**: Easily browse through added codes using the built-in interface.
-
----
-
-📌 **Need Help?**
-For further instructions, a tutorial will be available on the Anomic Forums.
-
-💾 **Contribute & Explore**
-Have a feature idea or found a bug? Feel free to report it in the fourm post i made!
