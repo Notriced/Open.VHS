@@ -16,7 +16,7 @@ Easily navigate the GUI and share your Anomic VHS tapes effortlessly!
 
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Notriced)
 [![Sketchfab](https://img.shields.io/badge/Sketchfab-1CAAD9?style=for-the-badge&logo=sketchfab&logoColor=white)](https://sketchfab.com/m333king)
-[![Anomic Forums](https://img.shields.io/badge/Anomic%20Forums-282C34?style=for-the-badge&logo=forum&logoColor=white)]([https://anomic.forums.yourlink](https://anomicforum.xyz/t/indev-introducing-open-vhs-a-program-made-by-notriced/5504))  
+[![Anomic Forums](https://img.shields.io/badge/Anomic%20Forums-282C34?style=for-the-badge&logo=forum&logoColor=white)]([[https://anomicforum.xyz/t/indev-introducing-open-vhs-a-program-made-by-notriced/5504])
 
 ---
 
