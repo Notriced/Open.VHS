@@ -5,11 +5,6 @@
 🚀 **An open-source code-sharing platform for your Anomic VHS tapes!** 
 Easily navigate the GUI and share your Anomic VHS tapes effortlessly!
 
----
-
-
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Notriced&theme=darkhub&margin-w=15)
 
 🚀 **An open-source code-sharing platform for your Anomic VHS tapes!** 
 Easily navigate the GUI and share your Anomic VHS tapes effortlessly!
