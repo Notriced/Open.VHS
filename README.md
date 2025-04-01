@@ -87,4 +87,4 @@ Have a feature idea or found a bug? Feel free to contribute and help improve Ope
 For further instructions, a tutorial will be available on the Anomic Forums.
 
 💾 **Contribute & Explore**
-Have a feature idea or found a bug? Feel free to contribute and help improve Open.VHS!
+Have a feature idea or found a bug? Feel free to report it in the fourm post i made!
