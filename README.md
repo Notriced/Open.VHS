@@ -7,12 +7,7 @@ Easily navigate the GUI and share your Anomic VHS tapes effortlessly!
 
 ---
 
-## 🌐 Connect with Me
-🔗 Stay updated and check out my other projects:
 
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Notriced)
-[![Sketchfab](https://img.shields.io/badge/Sketchfab-1CAAD9?style=for-the-badge&logo=sketchfab&logoColor=white)](https://sketchfab.com/m333king)
-[![Anomic Forums](https://img.shields.io/badge/Anomic%20Forums-282C34?style=for-the-badge&logo=forum&logoColor=white)](# 🎞 Open.VHS
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Notriced&theme=darkhub&margin-w=15)
 
